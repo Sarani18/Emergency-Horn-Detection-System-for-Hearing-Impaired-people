@@ -1,4 +1,4 @@
-<h2>Honk Honk 🚓🚗</h2>
+<h2>Emergency Horn Detection System for Hearing Impaired people 🚓🚗</h2>
 <h3>Project Description</h3>
 
 <p>This repository contains a machine learning project for feature extraction and classification using multiple models, including 1D CNN, LSTM, and 2D CNN. The main focus of the project is to extract features from audio data, train various models, and evaluate their performance.</p>
